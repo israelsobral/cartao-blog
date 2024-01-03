@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,600;0,800;0,900;1,300;1,400;1,500&family=Luckiest+Guy&display=swap');
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Figtree', sans-serif;
+}
+
+body {
+    background-color: #F5D04E;
+}
+
+  main {
+      position: relative;
+      min-width: 320px;
+      max-width: 350px;
+      height: 530px;
+      background-color: white;
+      margin: auto;
+      margin-top: 100px;
+      border: 1px solid black;
+      border-radius: 10px;
+      box-shadow: 8px 8px 0px ;
+}
+
+  img#img-1 {
+    width: 300px;
+     padding: 30px;
+     border-radius: 40px;
+}
+
+  section#p {
+    padding-left: 30px;
+    padding-bottom: 0px;
+}
+
+  p#destaque {
+    background-color: #F5D04E;
+    width: 80px;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+
+  p.p {
+    padding-bottom: 20px;
+}
+
+  h2 {
+    padding-bottom: 20px;
+}
+
+  img#img-2 {
+    width: 40px;
+    padding-top: 0px;
+    padding-left: 30px;
+}
+
+
+
