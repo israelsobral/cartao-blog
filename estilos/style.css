@@ -66,5 +66,14 @@ h2:hover {
     padding-left: 30px;
 }
 
+#img-2:hover {
+  cursor: pointer;
+}
+
+strong:hover {
+  color: #F5D04E;
+  cursor: pointer;
+}
+
 
 
