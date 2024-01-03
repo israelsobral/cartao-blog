@@ -15,16 +15,15 @@ body {
 }
 
   main {
-      position: relative;
       min-width: 320px;
       max-width: 350px;
       height: 530px;
       background-color: white;
       margin: auto;
-      margin-top: 100px;
+      margin-top: 80px;
       border: 1px solid black;
       border-radius: 10px;
-      box-shadow: 8px 8px 0px ;
+      box-shadow: 8px 8px 0px;
 }
 
   img#img-1 {
