@@ -20,7 +20,7 @@ body {
       height: 550px;
       background-color: white;
       margin: auto;
-      margin-top: 80px;
+      margin-top: 50px;
       border: 1px solid black;
       border-radius: 10px;
       box-shadow: 8px 8px 0px;
@@ -74,6 +74,5 @@ strong:hover {
   color: #F5D04E;
   cursor: pointer;
 }
-
 
 
